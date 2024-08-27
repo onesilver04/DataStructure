@@ -1,4 +1,0 @@
-﻿  1번째 게임.c
-C:\Users\SM-PC\Desktop\[2024 DS Proj_1분반] 인공지능공학부_2학년_2311613_한은정\과제 2\(A) Program Code\1번째 게임.c(128,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\SM-PC\Desktop\[2024 DS Proj_1분반] 인공지능공학부_2학년_2311613_한은정\과제 2\(A) Program Code\1번째 게임.c(80,1): warning C4715: 'findNode': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  (A) Program Code.vcxproj -> C:\Users\SM-PC\Desktop\[2024 DS Proj_1분반] 인공지능공학부_2학년_2311613_한은정\과제 2\(A) Program Code\x64\Debug\(A) Program Code.exe
